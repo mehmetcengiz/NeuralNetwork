@@ -1,0 +1,16 @@
+c:\users\meciry\documents\visual studio 2013\Projects\NNMehmet\NNMehmet\bin\Debug\NNMehmet.exe.config
+c:\users\meciry\documents\visual studio 2013\Projects\NNMehmet\NNMehmet\bin\Debug\NNMehmet.exe
+c:\users\meciry\documents\visual studio 2013\Projects\NNMehmet\NNMehmet\bin\Debug\NNMehmet.pdb
+c:\users\meciry\documents\visual studio 2013\Projects\NNMehmet\NNMehmet\obj\Debug\NNMehmet.csprojResolveAssemblyReference.cache
+c:\users\meciry\documents\visual studio 2013\Projects\NNMehmet\NNMehmet\obj\Debug\NNMehmet.Form1.resources
+c:\users\meciry\documents\visual studio 2013\Projects\NNMehmet\NNMehmet\obj\Debug\NNMehmet.Properties.Resources.resources
+c:\users\meciry\documents\visual studio 2013\Projects\NNMehmet\NNMehmet\obj\Debug\NNMehmet.csproj.GenerateResource.Cache
+c:\users\meciry\documents\visual studio 2013\Projects\NNMehmet\NNMehmet\obj\Debug\NNMehmet.exe
+c:\users\meciry\documents\visual studio 2013\Projects\NNMehmet\NNMehmet\obj\Debug\NNMehmet.pdb
+C:\Users\meciry\Desktop\yedek\yedek\Projects\NNMehmet\NNMehmet\bin\Debug\NNMehmet.exe.config
+C:\Users\meciry\Desktop\yedek\yedek\Projects\NNMehmet\NNMehmet\obj\Debug\NNMehmet.exe
+C:\Users\meciry\Desktop\yedek\yedek\Projects\NNMehmet\NNMehmet\obj\Debug\NNMehmet.pdb
+C:\Users\meciry\Desktop\yedek\yedek\Projects\NNMehmet\NNMehmet\obj\Debug\NNMehmet.csprojResolveAssemblyReference.cache
+C:\Users\meciry\Desktop\yedek\yedek\Projects\NNMehmet\NNMehmet\obj\Debug\NNMehmet.Form1.resources
+C:\Users\meciry\Desktop\yedek\yedek\Projects\NNMehmet\NNMehmet\obj\Debug\NNMehmet.Properties.Resources.resources
+C:\Users\meciry\Desktop\yedek\yedek\Projects\NNMehmet\NNMehmet\obj\Debug\NNMehmet.csproj.GenerateResource.Cache
