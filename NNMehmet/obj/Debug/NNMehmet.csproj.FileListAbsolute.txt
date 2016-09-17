@@ -14,3 +14,10 @@ C:\Users\meciry\Desktop\yedek\yedek\Projects\NNMehmet\NNMehmet\obj\Debug\NNMehme
 C:\Users\meciry\Desktop\yedek\yedek\Projects\NNMehmet\NNMehmet\obj\Debug\NNMehmet.Form1.resources
 C:\Users\meciry\Desktop\yedek\yedek\Projects\NNMehmet\NNMehmet\obj\Debug\NNMehmet.Properties.Resources.resources
 C:\Users\meciry\Desktop\yedek\yedek\Projects\NNMehmet\NNMehmet\obj\Debug\NNMehmet.csproj.GenerateResource.Cache
+C:\Users\Meciry\Documents\GitHub\NeuralNetwork\NNMehmet\bin\Debug\NNMehmet.exe.config
+C:\Users\Meciry\Documents\GitHub\NeuralNetwork\NNMehmet\obj\Debug\NNMehmet.exe
+C:\Users\Meciry\Documents\GitHub\NeuralNetwork\NNMehmet\obj\Debug\NNMehmet.pdb
+C:\Users\Meciry\Documents\GitHub\NeuralNetwork\NNMehmet\obj\Debug\NNMehmet.csprojResolveAssemblyReference.cache
+C:\Users\Meciry\Documents\GitHub\NeuralNetwork\NNMehmet\obj\Debug\NNMehmet.Form1.resources
+C:\Users\Meciry\Documents\GitHub\NeuralNetwork\NNMehmet\obj\Debug\NNMehmet.Properties.Resources.resources
+C:\Users\Meciry\Documents\GitHub\NeuralNetwork\NNMehmet\obj\Debug\NNMehmet.csproj.GenerateResource.Cache
